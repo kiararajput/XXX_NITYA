@@ -67,8 +67,8 @@ if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simi"))
      return api.sendMessage("Amy Amy Na KRr IjjaT Sy MeRa Prefix LaGa 0or Bt kRr ITna Free Nhi kRta Me 😎🤞", threadID);
    };
 
-    if ((event.body.toLowerCase() == "🍒") || (event.body.toLowerCase() == "🍒") || (event.body.toLowerCase() == "🍒") || (event.body.toLowerCase() == "🍒")) {
-     return api.sendMessage("आर ये सब मत भेजा करो मेरा सर दर्द होता है। 🤕🤕👈", threadID);
+    if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
+     return api.sendMessage("😝 MOYE _ MOYE 😝", threadID);
    };
 
    if ((event.body.toLowerCase() == "tharki bot") || (event.body.toLowerCase() == "bot tharki")) {
